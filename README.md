@@ -1,2 +1,2 @@
 # textSummary
-use gpt to do text Summary and text split 
+use gpt to do with the risk about text Summary and text split 
